@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A small project to demonstrate pathfinding algorithms for an AI agent.
+A small project to demonstrate pathfinding in an AI agent.
 
 ## See Visualization in p5.js
 
